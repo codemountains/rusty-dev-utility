@@ -1,0 +1,10 @@
+[package]
+name = "rusty-dev-utility"
+version = "0.1.0"
+edition = "2021"
+
+# specify a default binary
+# Learn more at: https://doc.rust-lang.org/cargo/reference/manifest.html#the-default-run-field
+default-run = "rusty-dev-utility"
+
+[dependencies]
